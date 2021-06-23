@@ -6,6 +6,10 @@ function App() {
     <div>
       <h1>Hello from Aws Amplify</h1>
       <h1>This was built and deployed from a Github "push"</h1>
+
+      <h2>Another change</h2>
+
+
       <AmplifySignOut> </AmplifySignOut>
     </div>
   )
